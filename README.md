@@ -1,4 +1,3 @@
-Youtube Tutorial: https://www.youtube.com/watch?v=B_xSuk8Heew
 
 Learn to build a full featured Video Calling Android App like Whatsapp, Skype and IMO using Android Studio, Firebase Auth, Firebase Firestore and Java. This complete video will help all the beginners and skilled programmers to build their own video video calling application with 100K Downloads.
 
