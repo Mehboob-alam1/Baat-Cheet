@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 android {
-    compileSdkVersion 29
-    buildToolsVersion "30.0.1"
+    compileSdkVersion 32
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.guftgo"
-        minSdkVersion 21
-        targetSdkVersion 29
+        applicationId "com.example.BaatCheet"
+        minSdkVersion  23
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 
